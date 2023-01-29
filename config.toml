@@ -1,0 +1,66 @@
+baseURL = "https://www.cod.ch.tudelft.nl/"
+languageCode = "en-us"
+title = "Career Orientation Days"
+themesDir = "themes"
+theme = "hugo-hero-theme"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.92.0"
+    
+[params]
+  google_analytics_id=""
+
+  [params.logo]
+    mobile = "logo/logo_kort_background.svg"
+    mobile_height = "20px"
+    mobile_width = "40px"
+    desktop = "logo/logo_kort_background.svg"
+    desktop_height = "20px"
+    desktop_width = "40px"
+    alt = "arrow"
+
+  [params.homepage_meta_tags]
+    meta_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
+    meta_og_title = "Career Orientation Days"
+    meta_og_type = "website"
+    meta_og_url = "https://cod.ch.tudelft.nl"
+    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
+    meta_og_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@zerostaticio"
+    meta_twitter_creator = "@zerostaticio"
+
+
+[[menu.main]]
+    identifier = "Companies"
+    name = "Companies"
+    url="/work/"
+    weight = 1
+
+[[menu.main]]
+    name = "Mathematics"
+    url = "/work/mathematics/"
+    parent = "Companies"
+    weight = 1
+
+[[menu.main]]
+    name = "Computer Science"
+    url = "/work/computer_science/"
+    parent = "Companies"
+    weight = 2
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 2
+
+[[menu.main]]
+    name = "Register"
+    url = "/registration/"
+    weight = 3
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"

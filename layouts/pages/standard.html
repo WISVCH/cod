@@ -1,0 +1,11 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-pages-aboutlayout{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+{{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "positionBackground" .Params.positionBackground "content" .)}}
+<!-- {{ $headless := .Site.GetPage "/pages/about" }} -->
+
+{{ .Content }}
+
+{{ end }}

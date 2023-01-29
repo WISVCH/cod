@@ -1,0 +1,16 @@
+.buttons {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#math {
+    display: block;
+}
+
+#cse {
+    display: none;
+}
+
+.button:disabled {
+    background-color: #2d3a6e;
+}

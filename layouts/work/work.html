@@ -1,0 +1,46 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-pages-aboutlayout{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+{{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "positionBackground" .Params.positionBackground "content" .)}}
+{{ $math := .Site.GetPage "/work/mathematics" }}
+{{ $cse := .Site.GetPage "/work/mathematics" }}
+
+<div class="container buttons">
+<button class="button" onclick="enablemath()" id="mathbutton" disabled>Mathematics</button>
+<button class="button" onclick="enablecse()" id="csebutton">Computer Science</button>
+</div>
+
+<div class="container pb-6 pb-md-10" id="math">
+    <div class="row">
+        {{ range $math.RegularPagesRecursive.ByWeight }}
+        <div class="col-12 col-md-6 mb-2 ">{{ .Render "summary" }}</div>
+        {{ end }}
+    </div>
+</div>
+
+<div class="container pb-6 pb-md-10" id="cse">
+    <div class="row">
+        {{ range $cse.RegularPagesRecursive.ByWeight }}
+        <div class="col-12 col-md-6 mb-2 ">{{ .Render "summary" }}</div>
+        {{ end }}
+    </div>
+</div>
+
+<script>
+    function enablemath() {
+        document.getElementById("math").style.display = 'block'
+        document.getElementById("cse").style.display = 'none'
+        document.getElementById("mathbutton").disabled = true
+        document.getElementById("csebutton").disabled = false
+    }
+    function enablecse() {
+        document.getElementById("math").style.display = 'none'
+        document.getElementById("cse").style.display = 'block'
+        document.getElementById("mathbutton").disabled = false
+        document.getElementById("csebutton").disabled = true
+    }
+</script>
+
+{{ end }}

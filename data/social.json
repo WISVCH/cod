@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Instagram",
+        "link": "https://instagram.com/wisvch",
+        "image": "social/instagram.svg"
+    },
+    {
+        "name": "Linkedin",
+        "link": "https://www.linkedin.com/company/w.i.s.v.-'christiaan-huygens'/mycompany/",
+        "image": "social/linkedin.svg"
+    },
+    {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/WISVCH",
+        "image": "social/facebook.svg"
+    }
+]
