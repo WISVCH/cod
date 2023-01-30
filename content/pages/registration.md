@@ -5,7 +5,7 @@ layout: standard
 heroHeading: 'Register'
 # heroSubHeading: "Established in 1985, we're a team of advisors that puts your business first."
 heroBackground: 'register/checkin.JPG'
-positionBackground: 50%
+positionBackground: 40%
 ---
 
 {{< rawhtml >}}
