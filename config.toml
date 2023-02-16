@@ -36,18 +36,18 @@ theme = "hugo-hero-theme"
 [[menu.main]]
     identifier = "Companies"
     name = "Companies"
-    url="/work/"
+    url="/companies/"
     weight = 1
 
 [[menu.main]]
     name = "Mathematics"
-    url = "/work/mathematics/"
+    url = "/companies/mathematics/"
     parent = "Companies"
     weight = 1
 
 [[menu.main]]
     name = "Computer Science"
-    url = "/work/computer_science/"
+    url = "/companies/computer_science/"
     parent = "Companies"
     weight = 2
 

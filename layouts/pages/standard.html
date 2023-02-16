@@ -4,6 +4,7 @@
 
 {{ define "main" }}
 {{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "positionBackground" .Params.positionBackground "content" .)}}
+{{ partial "breadcrumbs.html" . }}
 <!-- {{ $headless := .Site.GetPage "/pages/about" }} -->
 
 {{ .Content }}

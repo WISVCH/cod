@@ -4,8 +4,9 @@
 
 {{ define "main" }}
 {{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "positionBackground" .Params.positionBackground "content" .)}}
-{{ $math := .Site.GetPage "/work/mathematics" }}
-{{ $cse := .Site.GetPage "/work/mathematics" }}
+{{ partial "breadcrumbs.html" . }}
+{{ $math := .Site.GetPage "/companies/mathematics" }}
+{{ $cse := .Site.GetPage "/companies/computer_science" }}
 
 <div class="container buttons">
 <button class="button" onclick="enablemath()" id="mathbutton" disabled>Mathematics</button>
