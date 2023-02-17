@@ -9,21 +9,13 @@
 {{ $cse := .Site.GetPage "/companies/computer_science" }}
 
 <div class="container buttons">
-<button class="button" onclick="enablemath()" id="mathbutton" disabled>Mathematics</button>
-<button class="button" onclick="enablecse()" id="csebutton">Computer Science</button>
+<button class="btn" onclick="enablemath()" id="mathbutton">Mathematics</button>
+<button class="btn" onclick="enablecse()" id="csebutton">Computer Science</button>
 </div>
 
-<div class="container pb-6 pb-md-10" id="math">
+<div class="container pb-6 pb-md-10">
     <div class="row">
-        {{ range $math.RegularPagesRecursive.ByWeight }}
-        <div class="col-12 col-md-6 mb-2 ">{{ .Render "summary" }}</div>
-        {{ end }}
-    </div>
-</div>
-
-<div class="container pb-6 pb-md-10" id="cse">
-    <div class="row">
-        {{ range $cse.RegularPagesRecursive.ByWeight }}
+        {{ range .RegularPagesRecursive.ByWeight }}
         <div class="col-12 col-md-6 mb-2 ">{{ .Render "summary" }}</div>
         {{ end }}
     </div>
@@ -31,14 +23,12 @@
 
 <script>
     function enablemath() {
-        document.getElementById("math").style.display = 'block'
-        document.getElementById("cse").style.display = 'none'
+        window.location.href = "/companies/mathematics";
         document.getElementById("mathbutton").disabled = true
         document.getElementById("csebutton").disabled = false
     }
     function enablecse() {
-        document.getElementById("math").style.display = 'none'
-        document.getElementById("cse").style.display = 'block'
+        window.location.href = "/companies/computer_science";
         document.getElementById("mathbutton").disabled = false
         document.getElementById("csebutton").disabled = true
     }
