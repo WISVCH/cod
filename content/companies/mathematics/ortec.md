@@ -5,7 +5,7 @@ draft: false
 weight: 100
 heroHeading: 'ORTEC'
 heroSubHeading: 
-heroBackground: 'work/ortec.png'
+# heroBackground: 'work/ortec.png'
 thumbnail: 'work/ortec.png'
 # images: ['work/ASML_banner.jpg']
 ---

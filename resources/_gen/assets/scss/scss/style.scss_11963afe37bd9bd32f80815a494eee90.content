@@ -9,6 +9,23 @@
 .form-input {
   display: block; }
 
+.g-form-container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding-top: 100%;
+  /* 1:1 Aspect Ratio */ }
+
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  border: none; }
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -6879,13 +6896,18 @@ html {
 .work-summary {
   display: flex;
   align-items: flex-start;
-  flex-direction: column; }
+  flex-direction: column;
+  align-items: center; }
   .work-summary .work-image {
-    max-height: 400px;
-    overflow: hidden; }
+    padding: 20px;
+    display: flex;
+    height: 250px;
+    overflow: hidden;
+    flex-direction: column;
+    justify-content: center; }
     .work-summary .work-image img {
-      max-width: 100%;
-      height: auto; }
+      max-height: 250px;
+      max-width: 100%; }
   .work-summary .work-content {
     flex: 1;
     padding: 20px;
@@ -6907,7 +6929,7 @@ html {
   height: auto; }
 
 .page-work-single .content > p:first-of-type {
-  font-size: 24px;
+  font-size: 20px;
   line-height: 32px;
   margin-bottom: 40px;
   font-weight: 300; }

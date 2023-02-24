@@ -2,12 +2,19 @@
   display: flex;
   align-items: flex-start;
   flex-direction: column;
+  align-items: center;
+  // justify-content: space-between;
   .work-image {
-    max-height: 400px;
+    padding: 20px;
+    display: flex;
+    height: 250px;
     overflow: hidden;
+    flex-direction: column;
+    justify-content: center;
+    // align-items: center;
     img {
+      max-height: 250px;
       max-width: 100%;
-      height: auto;
     }
   }
   .work-content {

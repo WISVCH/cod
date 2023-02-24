@@ -1,13 +1,13 @@
 ---
-title: 'One-On-One Talks'
+title: 'Workshops and Lectures'
 date: 2018-11-18T12:33:46+10:00
-icon: 'services/bubble-chat.png'
+icon: 'services/lecture.png'
 draft: false
 featured: true
 weight: 1
-heroHeading: 'One-On-One Talks'
+heroHeading: 'Workshops and Lectures'
 heroSubHeading: ''
-heroBackground: 'services/service1.jpg'
+# heroBackground: 'services/service1.jpg'
 ---
 
 Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum

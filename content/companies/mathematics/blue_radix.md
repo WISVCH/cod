@@ -5,7 +5,7 @@ draft: false
 weight: 100
 heroHeading: 'Blue Radix'
 heroSubHeading: 
-heroBackground: 'work/blue_radix.png'
+# heroBackground: 'work/blue_radix.png'
 thumbnail: 'work/blue_radix.png'
 # images: ['work/ASML_banner.jpg']
 ---
