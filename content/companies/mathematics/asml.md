@@ -7,7 +7,12 @@ heroHeading: 'ASML'
 heroSubHeading: 
 heroBackground: 'work/ASML_banner.jpg'
 thumbnail: 'work/ASML.jpg'
-# images: ['work/ASML_banner.jpg']
+images: ['work/ASML_banner.jpg']
+website: 'https://asml.com/careers'
+phone: '+31 40 268 3900'
+email: 'campusrecruitment.EU@asml.com'
+address: 'De Run 6501'
+post_city: '5504 DR Veldhoven'
 ---
 
 Use the most advanced mathematics to solve the physical challenges of nanometer precision. Our
