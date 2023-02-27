@@ -40,17 +40,22 @@
   padding: 10%;
   padding-top: 5%;
 
-  .logo {
+  .logo-comp {
+    position: relative;
     min-width: 70%;
     // max-height: 200px;
     max-width: 100%;
     margin: auto;
     margin-bottom: 1em;
+    img {
+      max-width: 100%;
+    }
   }
   .comp-info-unit {
     padding-bottom: 1em;
     a {
-      display: inline-block;
+      hyphens: auto;
+      display: inline;
     }
     img {
       width: 7%;

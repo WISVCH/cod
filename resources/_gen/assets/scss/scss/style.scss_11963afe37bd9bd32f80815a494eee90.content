@@ -6932,15 +6932,19 @@ html {
   border-width: 1px;
   padding: 10%;
   padding-top: 5%; }
-  .comp-info .logo {
+  .comp-info .logo-comp {
+    position: relative;
     min-width: 70%;
     max-width: 100%;
     margin: auto;
     margin-bottom: 1em; }
+    .comp-info .logo-comp img {
+      max-width: 100%; }
   .comp-info .comp-info-unit {
     padding-bottom: 1em; }
     .comp-info .comp-info-unit a {
-      display: inline-block; }
+      hyphens: auto;
+      display: inline; }
     .comp-info .comp-info-unit img {
       width: 7%;
       margin-right: 1em; }

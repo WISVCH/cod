@@ -7,37 +7,37 @@
 {{ partial "breadcrumbs.html" . }}
 <div class="container pt-4 pt-md-10 pb-4 pb-md-10">
   <div class="row justify-content-start">
+    <div class="col-12 col-md-4 mb-2">
+      <div class="comp-info">
+          <div class="logo-comp">
+              <img src="{{ .Params.thumbnail | relURL }}"/>
+          </div>
+          {{ if .Params.website }}
+          <div class="comp-info-unit">
+            <img src="/work/icons/website.png"><a target="_blank" href="{{ .Params.website }}">{{ .Params.website }}</a >
+          </div>
+          {{ end }}
+          {{ if .Params.phone }}
+          <div class="comp-info-unit">
+            <img src="/work/icons/phone.png"><a href="tel:{{ .Params.phone }}">{{ .Params.phone }}</a >
+          </div>
+          {{ end }}
+          {{ if .Params.email }}
+          <div class="comp-info-unit">
+            <img src="/work/icons/email.png"><a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a >
+          </div>
+          {{ end }}
+          {{ if .Params.address }}
+          <div class="comp-info-unit">
+            <img src="/work/icons/location.png"><a target="_blank" href="http://maps.google.com/?q={{ .Params.address }}, {{ .Params.post_city }}">{{ .Params.address }}</br>{{ .Params.post_city }}</a >
+          </div>
+          {{ end }}
+      </div>
+  </div>
     <div class="col-12 col-md-8">
       <div class="work work-single">
         <div class="content">{{.Content}}</div>
       </div>
-    </div>
-    <div class="col-4">
-        <div class="comp-info">
-            <div class="logo">
-                <img src="{{ .Params.thumbnail | relURL }}"/>
-            </div>
-            {{ if .Params.website }}
-            <div class="comp-info-unit">
-              <img src="/work/icons/website.png"><a target="_blank" href="{{ .Params.website }}">{{ .Params.website }}</a >
-            </div>
-            {{ end }}
-            {{ if .Params.phone }}
-            <div class="comp-info-unit">
-              <img src="/work/icons/phone.png"><a href="tel:{{ .Params.phone }}">{{ .Params.phone }}</a >
-            </div>
-            {{ end }}
-            {{ if .Params.email }}
-            <div class="comp-info-unit">
-              <img src="/work/icons/email.png"><a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a >
-            </div>
-            {{ end }}
-            {{ if .Params.address }}
-            <div class="comp-info-unit">
-              <img src="/work/icons/location.png"><a target="_blank" href="http://maps.google.com/?q={{ .Params.address }}, {{ .Params.post_city }}">{{ .Params.address }}</br>{{ .Params.post_city }}</a >
-            </div>
-            {{ end }}
-        </div>
     </div>
     {{ if .Params.images }}
     <div class="col-12 pt-4 pt-md-10">
