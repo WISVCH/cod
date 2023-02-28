@@ -8,6 +8,11 @@ heroHeading: 'Adyen'
 # heroBackground: 'work/deloitte.jpg'
 thumbnail: 'work/adyen.png'
 # images: ['work/ASML_banner.jpg']
+website: 'https://careers.adyen.com/'
+phone: '+31 85 888 8138'
+email: ''
+address: 'Rokin 49'
+post_city: '1011 DJ Amsterdam'
 ---
 
 At Adyen, we started with payments. Ambition demanded more. So we set off to build a financial technology platform for the modern era, entirely in-house, from the ground up. 

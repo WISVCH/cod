@@ -10,5 +10,4 @@ heroSubHeading: ''
 # heroBackground: 'services/service1.jpg'
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, culkasjdfllllllllllllllllllllllllllllllll
+The days will start with a workshop and throughout the day, there will also be talks about pursuing your career.

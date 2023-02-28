@@ -8,6 +8,11 @@ heroSubHeading:
 # heroBackground: 'work/ortec.png'
 thumbnail: 'work/ortec.png'
 # images: ['work/ASML_banner.jpg']
+website: 'https://ortec.com/'
+phone: '+31 88 678 3265'
+email: 'recruitment@ortec.com'
+address: 'Houtsingel 5'
+post_city: '2719 EA Zoetermeer'
 ---
 We are ORTEC, a purpose-driven organization changing businesses and society at large through the
 power of data-driven mathematical optimization. We make businesses more efficient, more predictable

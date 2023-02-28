@@ -1,0 +1,7 @@
+<div class="work work-summary-thumb">
+  {{ if .Params.thumbnail }}
+  <div class="work-image-thumb">
+    <a href="{{ .RelPermalink }}"><img src="{{ .Params.thumbnail | relURL }}"/></a>
+  </div>
+  {{ end }}
+</div>

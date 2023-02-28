@@ -8,6 +8,11 @@ heroSubHeading: 'Choose your impact'
 # heroBackground: 'work/deloitte.jpg'
 thumbnail: 'work/deloitte.jpg'
 # images: ['work/ASML_banner.jpg']
+website: 'https://deloi.tt/3goDBO0'
+phone: '+31 (0)88 288 7441'
+email: 'sovermars@deloitte.nl'
+address: 'Gustav Mahlerlaan 2970'
+post_city: 'Amsterdam 1081 LA'
 ---
 
 You want a job with impact. At an employer where you can make a difference. Deloitte is such an employer. With over 7,000 people in 15 offices across the Netherlands, Deloitte is one of the largest providers of professional services in the areas of accountancy, tax advisory, consultancy, risk management and financial advisory. We can only do this if the best people choose us. Students with a broad view, who work in multidisciplinary teams on challenging assignments and thereby enrich their knowledge and experience. Our aim is that our various activities have as much community impact as possible. Let’s connect for impact.

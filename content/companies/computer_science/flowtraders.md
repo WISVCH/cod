@@ -8,6 +8,11 @@ heroHeading: 'Flow Traders'
 # heroBackground: 'work/deloitte.jpg'
 thumbnail: 'work/flowtraders.png'
 # images: ['work/ASML_banner.jpg']
+website: 'http://www.flowtraders.com'
+phone: '+31 20 7996799'
+email: 'jelkady@flowtraders.com'
+address: 'Jacob Bontiusplaats 9'
+post_city: '1018 LL Amsterdam'
 ---
 Offices: Amsterdam (headquarters), New York, Singapore, Hong Kong, London, Milan, Paris, Shanghai and Cluj\
 Number of employees: 640 +/-

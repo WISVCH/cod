@@ -1,0 +1,15 @@
+{{ $companies := where .Site.RegularPages "Type" "companies" }}
+{{if gt (len $companies) 0}}
+<div id="home" class="container pt-8 pb-8 pb-md-14 pt-md-0">
+  <div class="row justify-content-start">
+    <div class="col-12">
+      <h2 class="text-center mb-3">Companies</h2>
+    </div>
+    {{ range first 18 (sort $companies ".Params.weight") }}
+    <div class="col-12 col-md-2 mb-1">
+      {{ .Render "thumbnail" }}
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{end}}

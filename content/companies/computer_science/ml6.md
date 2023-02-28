@@ -8,6 +8,11 @@ heroSubHeading: 'ML6 ACCELERATES PEOPLE'
 # heroBackground: 'work/deloitte.jpg'
 thumbnail: 'work/ml6.png'
 # images: ['work/ASML_banner.jpg']
+website: 'https://www.ml6.eu/'
+phone: '+3293297542'
+email: 'info@ml6.eu'
+address: 'Geldersekade 101E'
+post_city: '1011EM Amsterdam'
 ---
 
 We didn’t set out to build an AI services company, we set out to create an environment where the best talent can create the most impact with new technologies

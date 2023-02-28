@@ -8,6 +8,11 @@ heroHeading: 'UbiOps'
 # heroBackground: 'work/deloitte.jpg'
 thumbnail: 'work/ubiops.png'
 # images: ['work/ASML_banner.jpg']
+website: 'https://ubiops.com/'
+phone: '+31 70 792 0091'
+email: 'info@ubiops.com'
+address: 'Wilhelmina van Pruisenweg 35'
+post_city: '2595 AN Den Haag'
 ---
 
 UbiOps is a fast-growing software scale-up based in The Hague. With 20 young, creative and open-

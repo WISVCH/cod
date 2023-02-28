@@ -8,6 +8,11 @@ heroSubHeading:
 # heroBackground: 'work/ortec.png'
 thumbnail: 'work/deltares.png'
 # images: ['work/ASML_banner.jpg']
+website: 'https://careers.deltares.nl/'
+phone: '+31615267686'
+email: 'sollicitatie@deltares.nl'
+address: 'Boussinesqweg 1'
+post_city: '2629 HV Delft'
 ---
 Throughout the world, we work on smart solutions, innovations and applications for people, environment and society. Our main focus is on deltas, coastal regions and river basins. Managing these densely populated and vulnerable areas is complex, which is why we work closely with governments, businesses, other research institutes and universities at home and abroad. Our motto is Enabling Delta Life. As an applied research institute, the success of Deltares can be measured in the extent to which our expert knowledge can be used in and for society. 
 

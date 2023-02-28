@@ -8,6 +8,11 @@ heroSubHeading:
 # heroBackground: 'work/ortec.png'
 thumbnail: 'work/veneficus.png'
 # images: ['work/ASML_banner.jpg']
+website: 'https://veneficus.nl/'
+phone: '+31 10 40 47 333'
+email: 'info@veneficus.nl'
+address: 'Veerkade 5G'
+post_city: '3016 DE Rotterdam'
 ---
 Do you love data? We do! For more than 14 years we have been working with data and we
 shared our love for data with a lot of high potentials. Now we want to share the love for data with

@@ -8,6 +8,11 @@ heroSubHeading:
 # heroBackground: 'work/blue_radix.png'
 thumbnail: 'work/blue_radix.png'
 # images: ['work/ASML_banner.jpg']
+website: 'https://blue-radix.com/'
+phone: ''
+email: 'info@blue-radix.com'
+address: 'Van Nelleweg 1'
+post_city: '3044 BC Rotterdam'
 ---
 
 Ready to solve major global challenges with algorithms?

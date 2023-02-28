@@ -8,6 +8,11 @@ heroHeading: 'ALTEN'
 # heroBackground: 'work/deloitte.jpg'
 thumbnail: 'work/alten.png'
 # images: ['work/ASML_banner.jpg']
+website: 'https://www.alten.nl/'
+phone: '+31 10 463 7700'
+email: ''
+address: 'Fascinatio Boulevard 582'
+post_city: '2909 VA Capelle a/d IJssel'
 ---
 
 ALTEN is a leading company in the field of Technical Consultancy and Engineering. Each of our employees have a passion for solving technological problems. 

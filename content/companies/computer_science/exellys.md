@@ -8,6 +8,11 @@ heroHeading: 'Exellys'
 # heroBackground: 'work/deloitte.jpg'
 thumbnail: 'work/exellys.png'
 # images: ['work/ASML_banner.jpg']
+website: 'https://www.exellys.com/en-gb/for-talent'
+phone: '+32 78 48 28 88'
+email: 'info@exellys.com'
+address: 'Joan Muyskenweg 22'
+post_city: '1096 CJ Amsterdam'
 ---
 
 This is Exellys...

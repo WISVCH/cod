@@ -8,6 +8,11 @@ heroSubHeading:
 # heroBackground: 'work/ortec.png'
 thumbnail: 'work/dsw.png'
 # images: ['work/ASML_banner.jpg']
+website: 'https://ictbijdsw.nl'
+phone: '+31 10 2422 752'
+email: 'ictwerving@dsw.nl'
+address: 's-Gravelandseweg 555'
+post_city: '3119 XT Schiedam'
 ---
 Development & ICT at DSW
 

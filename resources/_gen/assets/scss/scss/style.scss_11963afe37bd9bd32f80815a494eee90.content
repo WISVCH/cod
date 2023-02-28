@@ -6876,6 +6876,22 @@ html {
       font-size: 0.9rem;
       width: 90%; }
 
+.work-summary-thumb {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  align-items: center; }
+  .work-summary-thumb .work-image-thumb {
+    padding: 20px;
+    display: flex;
+    height: 100px;
+    overflow: hidden;
+    flex-direction: column;
+    justify-content: center; }
+    .work-summary-thumb .work-image-thumb img {
+      max-height: 100px;
+      max-width: 100%; }
+
 .work-summary {
   display: flex;
   align-items: flex-start;
@@ -6928,8 +6944,6 @@ html {
   margin: 0 0 1em; }
 
 .comp-info {
-  border-style: solid;
-  border-width: 1px;
   padding: 10%;
   padding-top: 5%; }
   .comp-info .logo-comp {
@@ -6941,6 +6955,7 @@ html {
     .comp-info .logo-comp img {
       max-width: 100%; }
   .comp-info .comp-info-unit {
+    width: 100%;
     padding-bottom: 1em; }
     .comp-info .comp-info-unit a {
       hyphens: auto;

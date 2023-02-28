@@ -22,15 +22,12 @@ theme = "hugo-hero-theme"
     alt = "arrow"
 
   [params.homepage_meta_tags]
-    meta_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
+    meta_description = "The Career Orientation Days is an event where computer science and mathematics students have the chance one-on-one conversation with companies."
     meta_og_title = "Career Orientation Days"
     meta_og_type = "website"
     meta_og_url = "https://cod.ch.tudelft.nl"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
-    meta_og_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
-    meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_og_description = "The Career Orientation Days is an event where computer science and mathematics students have the chance one-on-one conversation with companies."
 
 
 [[menu.main]]

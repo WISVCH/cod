@@ -8,6 +8,11 @@ heroSubHeading:
 # heroBackground: 'work/ortec.png'
 thumbnail: 'work/drw.jpg'
 # images: ['work/ASML_banner.jpg']
+website: 'https://drw.com/'
+phone: '+31 2 0399 8330'
+email: ''
+address: 'Locatellikade 1 Floor 7'
+post_city: '1076 AZ Amsterdam'
 ---
 DRW is a diversified trading firm with over 3 decades of experience bringing sophisticated technology and exceptional people together to operate in markets around the world. We value autonomy and the ability to quickly pivot to capture opportunities, so we operate using our own capital and trading at our own risk.
 

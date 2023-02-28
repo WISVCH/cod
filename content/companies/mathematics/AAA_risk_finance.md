@@ -8,6 +8,11 @@ heroSubHeading:
 # heroBackground: 'work/triple_a.jpg'
 thumbnail: 'work/triple_a.jpg'
 # images: ['work/ASML_banner.jpg']
+website: 'www.aaa-riskfinance.nl'
+phone: '+31 6 15 63 16 19'
+email: 'Iris.koot@aaa-riskfinance.nl'
+address: 'Hoogoorddreef 54'
+post_city: '1101 BE Amsterdam Zuidoost'
 ---
 Triple A - Risk Finance is an independent and innovative consulting firm specializing in the field of actuarial and risk management, founded in 2006 and based in Amsterdam. Triple A is a company with a flat structure and enthusiastic young professionals. Partly because of the short lines of communication with management, there is plenty of room for personal input and responsibility. This gives our employees the opportunity to go off the beaten path and solve the often quantitatively challenging assignments with a creative approach.
 
@@ -37,8 +42,3 @@ itself, as well as to the people who work there: the average age of the consulta
 entrepreneurship and determination to go for something together. The dynamic is reflected
 throughout the company in the way of working and the atmosphere in the office. The relationship
 with colleagues is open and informal, and at the same time we all go for the best result.
-
-Contact details:\
-Iris Koot\
-Iris.koot@aaa-riskfinance.nl\
-[+31 6 15 63 16 19](tel:+31615631619)
