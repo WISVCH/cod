@@ -9,8 +9,8 @@
 {{ $cse := .Site.GetPage "/companies/computer_science" }}
 
 <div class="container buttons">
-<button class="btn" onclick="enablemath()" id="mathbutton">Mathematics</button>
-<button class="btn" onclick="enablecse()" id="csebutton">Computer Science</button>
+<a class="btn" href="/companies/mathematics" onclick="enablemath()" id="mathbutton">Mathematics</a>
+<a class="btn" href="/companies/computer_science" onclick="enablecse()" id="csebutton">Computer Science</a>
 </div>
 
 <div class="container pb-6 pb-md-10">
@@ -23,12 +23,10 @@
 
 <script>
     function enablemath() {
-        window.location.href = "/companies/mathematics";
         document.getElementById("mathbutton").disabled = true
         document.getElementById("csebutton").disabled = false
     }
     function enablecse() {
-        window.location.href = "/companies/computer_science";
         document.getElementById("mathbutton").disabled = false
         document.getElementById("csebutton").disabled = true
     }
