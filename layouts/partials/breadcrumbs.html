@@ -14,10 +14,10 @@
             {{- end -}}
             {{- if eq ($.Scratch.Get "isPage") "true" -}}
                 {{- with $.Site.GetPage (print . ".md") -}}
-                    <li class="breadcrumb-item"><a href="{{ $.Scratch.Get `url` }}">{{ .Title }}</a></li>
+                    <li class="breadcrumb-item"><a href="{{ $.Scratch.Get `url` }}/">{{ .Title }}</a></li>
                 {{- end -}}
             {{- else -}}
-                <li class="breadcrumb-item"><a href="{{ $.Scratch.Get `url` }}">{{ humanize . }}</a></li>
+                <li class="breadcrumb-item"><a href="{{ $.Scratch.Get `url` }}/">{{ humanize . }}</a></li>
             {{- end -}}
         {{- end -}}
     {{- end -}}
