@@ -38,7 +38,7 @@
 
 {{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }}
 {{if gt (len $services) 0}}
-<div id="home" class="container pt-8 pb-8 pb-md-5 pt-md-14">
+<div id="home" class="container pt-8 pb-8 pb-md-5 pt-md-10">
   <div class="row justify-content-start">
     <div class="col-12">
       <h2 class="text-center mb-3">About COD</h2>
@@ -54,13 +54,13 @@
 
 {{ $companies := where .Site.RegularPages "Type" "companies" }}
 {{if gt (len $companies) 0}}
-<div id="home" class="container pt-8 pb-8 pb-md-14 pt-md-0">
+<div id="home" class="container pt-0 pb-8 pb-md-14 pt-md-0">
   <div class="row justify-content-start">
     <div class="col-12">
       <h2 class="text-center mb-3">Companies</h2>
     </div>
-    {{ range $companies }}
-    <div class="col-12 col-md-2 mb-1">
+    {{ range uniq $companies }}
+    <div class="col-6 col-md-2 mb-1">
       {{ .Render "thumbnail" }}
     </div>
     {{ end }}
