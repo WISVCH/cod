@@ -36,3 +36,8 @@ to experiment, test and push the boundaries of technology. They work in close-kn
 teams, learning and growing along with the company.
 
 If you want to be part of progress, visit [asml.com/careers](https://asml.com/careers).
+
+The following people will be present at the Career Orientations Days:
+- Paul Donkers – former member CH
+- Willemijn van Varik – former board member CH
+- Lieke van der Linden – student, former board member CH & ASML Campus Promoter
