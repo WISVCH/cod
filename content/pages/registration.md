@@ -1,6 +1,6 @@
 ---
 title: "Registration"
-date: 2023-01-27T19:06:55+01:00
+date: 2024-03-13T10:48:44+00:00
 layout: standard
 heroHeading: 'Register'
 # heroSubHeading: "Established in 1985, we're a team of advisors that puts your business first."
@@ -8,7 +8,9 @@ heroBackground: 'register/checkin.JPG'
 positionBackground: 40%
 ---
 
-{{< rawhtml >}}
+Registrations will open soon!
+
+<!-- {{< rawhtml >}}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd52Bs30NpfHlT_8s6qjS3euTW_YLHH8bdw381_L_fr9eYGaw/viewform?embedded=true" width="100%" height="2000" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" class="my_form">Loading…</iframe>
 
 <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.js"></script> 
@@ -38,5 +40,5 @@ positionBackground: 40%
     <input type="checkbox" name="entry.48944311" value="3"> 3</br>
    <button type="submit">Send</button>
 </form> -->
-{{< /rawhtml >}}
+{{< /rawhtml >}} -->
 
