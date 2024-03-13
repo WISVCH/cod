@@ -8,7 +8,7 @@ heroHeading: 'Ortec'
 # heroBackground: 'work/deloitte.jpg'
 thumbnail: 'work/ortec.png'
 # images: ['work/ASML_banner.jpg']
-website: 'https://www.chipsoft.com/nl-NL/werken-bij'
+website: 'https://ortec.com/en/careers'
 phone: '+31 88 678 3265'
 email: 'info.nl@ortec.com'
 address: 'Houtsingel 5'
