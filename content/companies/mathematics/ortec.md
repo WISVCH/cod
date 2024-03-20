@@ -10,7 +10,7 @@ thumbnail: 'work/ortec.png'
 # images: ['work/ASML_banner.jpg']
 website: 'https://ortec.com/en/careers'
 phone: '+31 88 678 3265'
-email: 'info.nl@ortec.com'
+email: 'recruitment@ortec.com'
 address: 'Houtsingel 5'
 post_city: '2719 EA Zoetermeer'
 ---
