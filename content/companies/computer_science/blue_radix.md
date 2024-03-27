@@ -1,7 +1,7 @@
 ---
 title: "Blue Radix"
 date: 2024-03-22T10:48:44+00:00
-draft: true
+draft: false
 weight: 100
 heroHeading: 'Blue Radix'
 # heroSubHeading: 'Choose your impact'
