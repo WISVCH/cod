@@ -6,7 +6,11 @@
   {{ end }}
   <div class="work-content">
     <h2 class="work-title">
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      <a href="{{ .Permalink }}">{{ .Title }} 
+        {{ if .Params.dutchOnly }}
+              <small>(Dutch Only)</small>
+        {{ end }}
+      </a>
     </h2>
     {{ .Content | truncate 120 "..." | plainify }}
   </div>

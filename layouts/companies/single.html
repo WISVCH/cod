@@ -36,6 +36,9 @@
   </div>
     <div class="col-12 col-md-8">
       <div class="work work-single">
+        {{ if .Params.dutchOnly }}
+              <i>Dutch Only</i>
+        {{ end }}
         <div class="content">{{.Content}}</div>
       </div>
     </div>

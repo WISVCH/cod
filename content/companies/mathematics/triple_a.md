@@ -13,6 +13,7 @@ phone: '020-7073640'
 email: 'infi@aaa-riskfinance.nl'
 address: 'Hoogoorddreef 54'
 post_city: '1101 BE Amsterdam'
+dutchOnly: True
 ---
 
 ## Wie is Triple A - Risk Finance?
