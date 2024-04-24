@@ -11,6 +11,17 @@ positionBackground: 40%
 <!-- Registrations will open soon! -->
 
 {{< rawhtml >}}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdHVPtc6fiW-iJnxC_S4selSmDMllUD14BWeUvoEMWHNjz4IA/viewform?embedded=true" width="100%" height="2000" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" class="my_form">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdHVPtc6fiW-iJnxC_S4selSmDMllUD14BWeUvoEMWHNjz4IA/viewform?embedded=true" width="100%" height="2500" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" class="my_form" id="form" onload="loaded()">Loading…</iframe>
+
+<script type="application/javascript">
+    var loadCounter = 0;
+    var loaded = function() {
+        loadCounter += 1;
+        if (loadCounter > 1) {
+            var form = document.getElementById("form")
+            form.scrollIntoView(true)
+        }
+    }
+</script>
 {{< /rawhtml >}}
 
