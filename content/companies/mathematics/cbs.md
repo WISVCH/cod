@@ -27,7 +27,7 @@ Het CBS is een open, transparante organisatie, naar jouw inbreng en mening wordt
 
 ## Stage en afstuderen 
 Ben je op zoek naar een uitdagende meewerkstage of afstudeerstage? 
-Kijk dan op [www.werkenbijhetcbs.nl](www.werkenbijhetcbs.nl)
+Kijk dan op [www.werkenbijhetcbs.nl](https://www.werkenbijhetcbs.nl)
 
 ---
 Statistics Netherlands (CBS) provides society with relevant and independent figures
@@ -47,4 +47,4 @@ knowledge and vision to our organisation. CBS is developing rapidly and offers r
 for your ideas and your knowledge!
 
 Werken bij het CBS
-Is jouw interesse gewekt? Reageer dan direct. Kijk voor onze actuele vacatures op [www.werkenbijhetcbs.nl](www.werkenbijhetcbs.nl) Ben jij er klaar voor?
+Is jouw interesse gewekt? Reageer dan direct. Kijk voor onze actuele vacatures op [www.werkenbijhetcbs.nl](https://www.werkenbijhetcbs.nl) Ben jij er klaar voor?
