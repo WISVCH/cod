@@ -1,7 +1,7 @@
 ---
 title: "Technolution"
 date: 2024-03-22T10:48:44+00:00
-draft: true
+draft: false
 weight: 100
 heroHeading: 'Technolution'
 # heroSubHeading: 'Choose your impact'
@@ -28,7 +28,10 @@ The systems and products we build are just as diverse. We produce Europe's most 
 Working at Technolution guarantees fun at work, personal development and interesting assignments. The proof is the great loyalty of our colleagues and the recurring high scores of the employee satisfaction survey.
 
 ## Room for your knowledge and skills
-When you join us, you will receive a warm welcome as a new colleague at Technolution. You will work closely with technical masters and bachelors who like to sink their teeth into complex problems. So you will never do it alone. Do you have questions or are you struggling with something? Your colleagues are always willing to help.  In addition, at Technolution you will have every opportunity to develop yourself further. In what direction? That is up to you.
+
+When you join us, you will receive a warm welcome as a new colleague at Technolution. You will work closely with technical masters and bachelors who like to sink their teeth into complex problems. So you will never do it alone. Do you have questions or are you struggling with something? Your colleagues are always willing to help.
+In addition, at Technolution you will have every opportunity to develop yourself further. In what direction? That is up to you.
 
 ## Working at Technolution. That is what you want!
-Technical masters feel at home at Technolution! We work hard to keep challenging all colleagues and offer them a great place to work. We do this with interesting projects and pleasant working conditions. Want to know more? Check out technolution.com/carriere or call 0182 59 4000 and ask for Christina Keehnen or Dorith Baan.
+
+Technical masters feel at home at Technolution! We work hard to keep challenging all colleagues and offer them a great place to work. We do this with interesting projects and pleasant working conditions. Want to know more? Check out https://technolution.com/carriere or call 0182 59 4000 and ask for Christina Keehnen or Dorith Baan.
