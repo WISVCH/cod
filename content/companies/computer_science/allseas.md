@@ -8,7 +8,7 @@ heroHeading: 'Allseas'
 # heroBackground: 'work/deloitte.jpg'
 thumbnail: 'work/allseas.png'
 # images: ['work/ASML_banner.jpg']
-website: 'www.allseas.com/careers'
+website: 'https://www.allseas.com/careers'
 phone: '+31 15 268 1800'
 email: 'recruitment@allseas.com'
 address: 'Poortweg 12'
