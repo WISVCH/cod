@@ -8,7 +8,7 @@ heroHeading: 'Harvest'
 # heroBackground: 'work/deloitte.jpg'
 thumbnail: 'work/harvest.png'
 # images: ['work/ASML_banner.jpg']
-website: 'www.harvest.nl'
+website: 'https://www.harvest.nl'
 phone: '06-41381253'
 email: 'sollicitatie@harvest.nl'
 address: 'Hoofdstraat 152'
