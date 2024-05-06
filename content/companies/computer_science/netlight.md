@@ -8,7 +8,7 @@ heroHeading: 'Netlight'
 # heroBackground: 'work/deloitte.jpg'
 thumbnail: 'work/netlight.png'
 # images: ['work/ASML_banner.jpg']
-website: 'www.netlight.com'
+website: 'https://www.netlight.com'
 phone: '+31 6 38 98 36 30'
 email: 'john.leijonmarck@netlight.com'
 address: 'Herengracht 498'
