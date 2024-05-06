@@ -8,7 +8,7 @@ heroHeading: 'HKV'
 # heroBackground: 'work/deloitte.jpg'
 thumbnail: 'work/hkv.png'
 # images: ['work/ASML_banner.jpg']
-website: 'www.hkv.nl'
+website: 'https://www.hkv.nl'
 phone: '0320 294242'
 email: 'info@hkv.nl'
 address: 'Botter 11-29'
