@@ -1,12 +1,10 @@
 email: 'career@ch.tudelft.nl'
 phone: '+31 15 278 7208'
 businessName: 'W.I.S.V. Christiaan Huygens'
-address: |
-  Mekelweg 4
-  2628CD Delft  
+address: 'Mekelweg 4, 2628CD Delft'
 hours:
   - day: Monday
-    open: 12:00
+    open: 13:00
     close: 17:00
   - day: Tuesday
     open: 9:00

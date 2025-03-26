@@ -9,20 +9,20 @@ heroHeading: 'Deltares'
 thumbnail: 'work/deltares.png'
 # images: ['work/ASML_banner.jpg']
 website: 'https://careers.deltares.nl'
-phone: '+31615267686'
-email: 'sollicitatie@Detlares.nl'
+phone: '+31 6 15267686'
+email: 'sollicitatie@Deltares.nl'
 address: 'Boussinesqweg 1'
 post_city: '2629 HV Delft'
 ---
 
-Do you want to contribute to safe and sustainable living in deltas throughout the world? Deltares gives you that opportunity. Our mission of ‘Enabling Delta Life’ is more urgent than ever due to the drastic developments such as climate change, extreme weather events and population growth. Robust knowledge based on an integrated approach is needed about water and the subsurface.
+Deltares is an independent, not-for-profit knowledge institute for applied research. By statute, we are a part of the vital public infrastructure of the State of the Netherlands. We believe in the power of in-depth knowledge, innovative solutions, and software to ensure the world’s delta regions remain habitable. Our work demands versatility, from hands-on fieldwork to the use of our unique research facilities such as the Deltares Delta Flume and the GeoCentrifuge. 
 
-Using applied research, we develop in-depth knowledge that is necessary and useful for decision makers. By ensuring this knowledge is accessible to everyone, we help with innovative solutions. Where do we make a difference? By building on the continuity of our knowledge base. As an important knowledge partner, we help the government, companies, and society. Together, we achieve our mission: Enabling Delta Life.
+At the heart of our mission, ‘Enabling Delta Life’, is the water and soil system. We focus on five key areas, or ‘moonshots’, where our expertise makes a significant impact: habitable deltas, flood protection, healthy water systems, sustainable energy, and resilient infrastructure.  
+ 
+The world’s delta regions are attractive places to live and work due to their proximity to water. However, they are also vulnerable to natural forces and human activities. Our understanding of the water and soil system plays a crucial role in addressing major societal challenges in the Netherlands, including road infrastructure, river navigation, housing development, the energy transition, nature conservation and preservation, the future of agriculture, and climate adaptation. Globally, disruptions to the soil and water systems disrupt security, peace, and habitability. Healthy water and soil systems are therefore key to survival. Our diverse team of over 900 highly qualified professionals, representing over 60 nationalities, is dedicated to this mission. 
 
-We are a not-for-profit, world-leading, and mission-driven Dutch knowledge institute for water and the subsurface.
+Deltares serves as a hub for innovation. Our colleagues are curious and driven. We work in co-creation with universities, research institutes, businesses, NGOs, and governments worldwide. 
 
-## We are Deltares
+We are transparent about our methods and results, and who we work with. Based on our knowledge, we serve as the eyes, ears, and sometimes the voice of the soil and water system. Our motto, ‘dare to share’, reflects our commitment to openly share our knowledge with the world. 
 
-Be part of a team that is at the forefront of creating a better world.
-
-Our promise to you, as you choose to become part of the Deltares team, is that you will be part of a dynamic and inclusive team that values diversity, creativity, innovation, and collaboration. At Deltares, you will have the opportunity to grow personally and professionally and make a real contribution to building a better future.
+Together, we realise Deltares’ mission of ‘Enabling Delta Life’. 

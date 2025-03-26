@@ -9,7 +9,7 @@ heroHeading: 'ChipSoft'
 thumbnail: 'work/chipsoft.jpg'
 # images: ['work/ASML_banner.jpg']
 website: 'https://www.chipsoft.com/nl-NL/werken-bij'
-phone: '+31 (0)20 49 39 000'
+phone: '+31 20 4939000'
 email: 'recruitment@chipsoft.com'
 address: 'Orlyplein 10'
 post_city: '1043 DP Amsterdam'
