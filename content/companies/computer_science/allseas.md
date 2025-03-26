@@ -9,7 +9,7 @@ heroHeading: 'Allseas'
 thumbnail: 'work/allseas.png'
 # images: ['work/ASML_banner.jpg']
 website: 'https://www.allseas.com/careers'
-phone: '+31 15 268 1800'
+phone: '+31 15 2681800'
 email: 'recruitment@allseas.com'
 address: 'Poortweg 12'
 post_city: '2612 PA Delft'

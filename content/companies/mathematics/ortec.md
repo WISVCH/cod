@@ -9,7 +9,7 @@ heroHeading: 'Ortec'
 thumbnail: 'work/ortec.png'
 # images: ['work/ASML_banner.jpg']
 website: 'https://ortec.com/en/careers'
-phone: '+31 88 678 3265'
+phone: '+31 88 6783265'
 email: 'recruitment@ortec.com'
 address: 'Houtsingel 5'
 post_city: '2719 EA Zoetermeer'
@@ -21,12 +21,12 @@ ORTEC’s products result in optimized fleet routing and dispatch, vehicle and p
 
 Besides our products we offer tailor-made solutions for our customers. We are experienced in areas such as: predictive maintenance and asset management, operations and supply chain analytics (i.e. sales and operations planning/optimization), HR & customer Analytics (i.e. dynamic pricing, revenue management, chatbots).
 
-## Working at ORTEC
+### Working at ORTEC
 
 Since our founding in 1981, we have grown to employ over 1000 people at locations in Europe, the United States, Australia and Brazil. Most of our employees began working with us after completing their studies. The company’s organizational structure is flat, with short lines of communication. The atmosphere is open and informal, which forms an excellent basis for a productive working environment.
 
-## Students and starters
+### Students and starters
 
-We are always looking for ambitious students/starters who have affinity with IT, optimization, data science and analytics. There are different possibilities for students. As a student you can do a (graduation) internship and/or work part-time as a student assistant.  
+We are always looking for ambitious students/starters who have affinity with IT, optimization, data science and analytics. As a master student, you can do a graduation internship at ORTEC. You can combine this with a student assistant role if a project is available.  
   
 If you are interested in working at ORTEC, you can send your resume, motivation and grades list to [recruitment@ortec.com](mailto:recruitment@ortec.com). Give a clear indication about the period and specialization you are looking for in the graduation internship or part-time job.
