@@ -1,9 +1,9 @@
 ---
-title: "Vattenfall"
+title: "Lime Techonologies"
 date: 2024-04-03T10:48:44+00:00
 draft: false
 weight: 100
-heroHeading: 'Vattenfall'
+heroHeading: 'Lime Technologies'
 # heroSubHeading: 'Choose your impact'
 # heroBackground: 'work/deloitte.jpg'
 thumbnail: 'work/lime_technologies.png'
