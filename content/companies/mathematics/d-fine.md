@@ -8,9 +8,9 @@ heroHeading: 'd-fine'
 # heroBackground: 'work/deloitte.jpg'
 thumbnail: 'work/d-fine.jpg'
 # images: ['work/ASML_banner.jpg']
-website: 'https://careers.vattenfall.com/global/en'
-# phone: '+31(0)182594000'
-#email: 'startersrecruitment@vattenfall.com.'
+website: 'https://www.d-fine.com/en/'
+phone: '+49 1737975543'
+email: 'careers.nl@d-fine.com'
 #address: 'Hoekenrode 8'
 #post_city: '1102 BR Amsterdam'
 ---
