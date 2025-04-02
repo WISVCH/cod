@@ -9,10 +9,10 @@ heroHeading: 'Alten'
 thumbnail: 'work/alten.png'
 # images: ['work/ASML_banner.jpg']
 website: 'https://www.alten.nl/en/'
-#phone: '+31 15 2001220'
-#email: 'info@9to5.software'
-#address: 'Nieuwelaan 72'
-#post_city: '2611RT Delft'
+phone: '+31 10 463 7700'
+email: 'sollicitatie@alten.nl'
+address: 'Fascinatio Boulevard 582'
+post_city: '2909VA Capelle aan den IJssel'
 ---
 
 
