@@ -1,9 +1,9 @@
 ---
-title: 'Registrations will open soon!'
+title: 'Registrations are open!'
 #title: 'Register Now'
 weight: 1
 background: ''
-button: 'Register'
+button: 'Register now'
 buttonLink: 'registration/'
 ---
 
