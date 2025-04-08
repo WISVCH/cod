@@ -6,7 +6,7 @@ weight: 100
 heroHeading: 'Unbound'
 # heroSubHeading: 'Choose your impact'
 # heroBackground: 'work/deloitte.jpg'
-thumbnail: 'work/unbound.png'
+thumbnail: 'work/unbound-agency.png'
 # images: ['work/ASML_banner.jpg']
 website: 'https://unbound-agency.nl/'
 phone: '+31 6 42832547'
