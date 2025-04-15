@@ -1,5 +1,5 @@
 ---
-title: "Lime Techonologies"
+title: "Lime Technologies"
 date: 2024-04-03T10:48:44+00:00
 draft: false
 weight: 100
