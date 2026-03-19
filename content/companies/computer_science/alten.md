@@ -19,7 +19,7 @@ post_city: '2909VA Capelle aan den IJssel'
 ## ALTEN, leader in Engineering and IT Services
 
 ### Take on technological challenges.
-Does the exploration of Mars, the cockpit of the future, the autonomous vehicle or intelligent data processing inspire you?
+Does the cockpit of the future, the autonomous vehicle or intelligent data processing inspire you?
 These are just some of the large-scale projects for which our consultants can be called upon. They work in 10 key business sectors, with some of the world’s most renowned companies to support industrial transformation. A movement supported by ALTEN’s Innovation Department, which provides our customers with original and disruptive technological solutions.
 
 ### Accelerate your professional development by raising your competencies.
