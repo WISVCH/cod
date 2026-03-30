@@ -1,40 +1,38 @@
 ---
-title: "CBS"
+title: "Netcompany"
 date: 2024-04-18T10:48:44+00:00
 draft: false
 weight: 100
-heroHeading: 'CBS'
+heroHeading: 'Netcompany'
 # heroSubHeading: 'Choose your impact'
 # heroBackground: 'work/deloitte.jpg'
-thumbnail: 'work/cbs.png'
+thumbnail: 'work/netcompany.png'
 # images: ['work/ASML_banner.jpg']
-website: 'https://www.cbs.nl/nl-nl/over-ons/werken-bij-het-cbs/onze-vacatures'
+website: 'https://netcompany.com/careers/'
 # phone: '0681904741'
 # email: 'Tomas.engelen@allianz.nl'
-address: 'Henri Faasdreef 312'
-post_city: '2492 JP Den Haag'
+address: 'Pr. Beatrixlaan 35'
+post_city: '2595 AK Den Haag'
 ---
-*English below*
 
-In een samenleving waarin informatie explosief toeneemt, is het vrij kunnen beschikken over betrouwbare en integrale data cruciaal. Het CBS levert als hét statistische bureau van Nederland met betrouwbare statistische informatie en data inzicht in maatschappelijke vraagstukken. Daarmee voedt het CBS het maatschappelijk debat, de beleidsontwikkeling en de besluitvorming en draagt zo bij aan welvaart, welzijn en democratie.
+Netcompany was founded in 2000 and has its headquarters in Copenhagen, Denmark. With the acquisition of Intrasoft International in late 2021, we added 2,800 people to our existing roster of 3,500 people. Today, we are an international company with more than 7000 employees working from 17 countries. We serve a wide array of customers in their digital transformation journeys in public and private sectors across Europe.
 
-### Sfeer en cultuur
-Het CBS kijkt naar “wat er feitelijk gebeurt”. We onderzoeken het en delen onze uitkomsten met iedereen. Voor iedereen en door iedereen dus. Bij het CBS is iedereen dan ook welkom. Wij willen talenten van waarde laten zijn in een omgeving waar je jezelf bent. Dat is niet alleen fijn voor jou, maar ook goed voor ons. Diversiteit brengt immers nieuwe inzichten, kennis en visie in de organisatie.
+Netcompany is a pure-play IT services company delivering business-critical strategic IT projects that accelerate customers’ digital transformation through digital platforms, core systems and infrastructure services.
 
-Het CBS bestaat uit betrokken mensen van verschillende leeftijden, nationaliteiten, seksuele voorkeuren, studierichtingen en loopbanen. Maar we hebben allen één doel: met vakmanschap werken aan een dynamische organisatie die op de toekomst is voorbereid.
+We provide end-to-end IT services from development through to maintenance and operations to a diversified customer base, including large and mid-sized European companies from various industries in the private and public sectors.
+We are committed
 
-Het CBS is een open, transparante organisatie, naar jouw inbreng en mening wordt geluisterd. Met ruim 2000 collega’s is het CBS meer en meer een afspiegeling van de samenleving. Daarbij zetten we de verschillen tussen mensen in als kracht om als teams en organisatie telkens beter te worden. Wij zien er dan ook naar uit dat jij daar, met jouw eigen kijk op de wereld een bijdrage aan komt leveren. Niet alleen in de uitvoering van je werk maar ook als persoon binnen onze organisatie. Met een open blik verwelkomen we daarom de meest geschikte collega op basis van kwaliteit, talent en competenties. Oftewel: “wie er feitelijk tegenover ons zit”.
+### We are committed
+We are committed to making our customers successful. A continual line of high quality IT-deliverances at the right time and to the agreed budget speaks for itself. Furthermore, we are committed to developing our employees’ talents and realising their potential with the market’s best and most popular career model. That combination has made us the market’s most successful IT-company.
+Business focus
 
-### Stage en afstuderen 
-Ben je op zoek naar een uitdagende meewerkstage of afstudeerstage? 
-Kijk dan op [www.werkenbijhetcbs.nl](https://www.werkenbijhetcbs.nl)
+### Business focus
+At Netcompany, we combine professional craftwork with speed and flexibility. Our broad business skills, methods and insight into technology guarantees solutions that are technically solid, organisationally anchored and that supply the desired economic results.
+Close to the customer
 
----
-Statistics Netherlands (CBS) provides society with relevant and independent figures
-on social issues such as climate, sustainability and poverty. CBS is an organisation
-that is developing rapidly and offers room for your ideas and your knowledge.
+### Close to the customer
+We believe in a close partnership with our customers, so the quality and foundation is ensured to be the best possible. We usually say that ‘we work with’ our customers, in contrast to ‘work for’ our customers – that is why we often work on-site at the customers` location. Our professional, flexible and responsible employees work at Netcompany because they deliver top-results every time, and are pleasant to work with.
+Culture and values
 
-CBS is an open, transparent organisation that delivers relevant and independent data to society on social issues, from the economy and employment to health and the environment. We examine ‘the facts that matter’ . As an expert, you will have a role in collecting, analysing and reporting data. Through your work, you feed the public debate, nurture policy development and decision-making and contribute to well- being, welfare and democracy. We use our expertise to build a dynamic organisation that is prepared for the future. At CBS, everyone is welcome. We encourage talented people to be of value in an environment where they can be themselves. After all, diversity brings new insights, knowledge and vision to our organisation. CBS is developing rapidly and offers room for your ideas and your knowledge!
-
-### Werken bij het CBS
-Is jouw interesse gewekt? Reageer dan direct. Kijk voor onze actuele vacatures op [www.werkenbijhetcbs.nl](https://www.werkenbijhetcbs.nl) Ben jij er klaar voor?
+### Culture and values
+At Netcompany, we understand that our employees are the key to maintaining our position as the most skilled and fastest growing IT consulting firm. That is why we have created a business model where we constantly focus on developing our employees to becoming the best in the industry. That means their career is just as important to us as it is to them.
