@@ -10,20 +10,23 @@ thumbnail: 'work/chipsoft.jpg'
 # images: ['work/ASML_banner.jpg']
 website: 'https://www.chipsoft.com/nl-NL/werken-bij'
 phone: '+31 20 4939000'
-email: 'recruitment@chipsoft.com'
+email: 'werken@chipsoft.com'
 address: 'Orlyplein 10'
 post_city: '1043 DP Amsterdam'
 ---
+Do you want to help improve the field of healthcare from behind the scenes? Check out what ChipSoft has to offer.
 
-Would you like to contribute to improving healthcare, but don't see yourself standing at a patient's bedside? In that case, you may want to check out ChipSoft, which has been at the top of healthcare automation for years. ChipSoft always has room for talented developers and consultants.
+As a leading supplier of healthcare IT, ChipSoft equips a large number of Dutch and Belgian healthcare facilities with efficient and innovative software solutions. Integrated solutions within a single 
+system – HiX – enable healthcare professionals to provide the right care at the right time.
 
-As market leader in healthcare ICT, ChipSoft provides many Dutch and Belgian healthcare institutions with efficient and innovative software solutions. This includes integrated solutions within one system - HiX - that ensure healthcare professionals can provide the right care at the right time.
+From ChipSoft's offices in Amsterdam, Antwerp, Heerenveen, and Hoogeveen, passionate developers and IT support consultants with a heart for healthcare work on solutions aimed at reducing the 
+administrative workload for care providers, improving cooperation between healthcare facilities, and promoting patient participation in their own care process. ChipSoft supports large (academic) 
+hospitals, but also general practices, mental healthcare facilities, independent clinics, nursing and residential care homes, and homecare services.
 
-With passionate developers and consultants, who all have a heart for healthcare, the company operates from Amsterdam, Antwerp, Heerenveen and Hoogeveen. They develop solutions that reduce the registration burden for healthcare providers, improve cooperation between healthcare institutions and give patients more control over their own treatment. As a result, ChipSoft relieves large academic hospitals, but also general practitioners, mental healthcare institutions, independent clinics, nursing homes, retirement homes and domestic care agencies.
+By using HiX as their comprehensive care solution, healthcare facilities of all sizes are well-equipped to meet the care needs of today and tomorrow, in which digital cooperation and data exchange between 
+all parties involved in the care process are more important than ever.
 
-With HiX as a total solution, healthcare institutions of all sizes are equipped for now ánd for the future. Moreover, digital cooperation and data exchange between all parties surrounding the patient play an increasingly important role. Would you like to participate in improving healthcare with smart ICT? Send an e-mail to [recruitment@chipsoft.com](mailto:recruitment@chipsoft.com).
-
-Facebook:  [https://www.facebook.com/chipsoftbv/](https://www.facebook.com/chipsoftbv/)
+Are you eager to help improve the field of healthcare using smart IT solutions? Get in touch via [werken@chipsoft.com](mailto:werken@chipsoft.com).
 
 Linkedin:  [https://www.linkedin.com/company/chipsoft/](https://www.linkedin.com/company/chipsoft/mycompany/verification/?viewAsMember=true)
 

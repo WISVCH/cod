@@ -26,3 +26,18 @@ Deltares serves as a hub for innovation. Our colleagues are curious and driven. 
 We are transparent about our methods and results, and who we work with. Based on our knowledge, we serve as the eyes, ears, and sometimes the voice of the soil and water system. Our motto, ‘dare to share’, reflects our commitment to openly share our knowledge with the world. 
 
 Together, we realise Deltares’ mission of ‘Enabling Delta Life’. 
+
+#Careers at Deltares
+
+Be part of a team that is at the forefront of creating a better world
+
+*Our promise to you*, as you choose to become part of the Deltares team, is that you will be part of a dynamic and inclusive team that values diversity, creativity, innovation, and collaboration. At Deltares, you will have the opportunity to grow personally and professionally and make a real contribution to building a better future. 
+
+- **Make a difference**: Building a Better Future together
+- **Innovate & Share**: Create new knowledge
+- **Grow your career**: Unleash your potential
+- **Join a Dynamic and Incusive Team**: Empowering Creativity, Innovation, and Collaboration
+
+Want to know more about working at Deltares and the type of jobs we offer? Be inspired by our colleagues and learn what drives them.
+
+[https://careers.deltares.nl/nl/homepagina](https://careers.deltares.nl/nl/homepagina)
