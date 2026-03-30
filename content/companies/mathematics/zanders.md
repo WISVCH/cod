@@ -6,7 +6,7 @@ weight: 100
 heroHeading: 'Zanders B.V'
 # heroSubHeading: 'Choose your impact'
 # heroBackground: 'work/deloitte.jpg'
-thumbnail: 'work/zanders.png'
+thumbnail: 'work/zanders.jpg'
 # images: ['work/ASML_banner.jpg']
 website: 'https://careers.zandersgroup.com/'
 # phone: '0681904741'
