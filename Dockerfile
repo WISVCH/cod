@@ -1,2 +1,2 @@
-FROM wisvch/nginx
+FROM ghcr.io/wisvch/nginx:latest
 COPY  ./public /srv
