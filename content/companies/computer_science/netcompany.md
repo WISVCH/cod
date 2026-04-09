@@ -6,7 +6,7 @@ weight: 100
 heroHeading: 'Netcompany'
 # heroSubHeading: 'Choose your impact'
 # heroBackground: 'work/deloitte.jpg'
-thumbnail: 'work/netcompany.png'
+thumbnail: 'work/netcompany-2.png'
 # images: ['work/ASML_banner.jpg']
 website: 'https://netcompany.com/careers/'
 # phone: '0681904741'
@@ -15,24 +15,6 @@ address: 'Pr. Beatrixlaan 35'
 post_city: '2595 AK Den Haag'
 ---
 
-Netcompany was founded in 2000 and has its headquarters in Copenhagen, Denmark. With the acquisition of Intrasoft International in late 2021, we added 2,800 people to our existing roster of 3,500 people. Today, we are an international company with more than 7000 employees working from 17 countries. We serve a wide array of customers in their digital transformation journeys in public and private sectors across Europe.
+At Netcompany, we help Europe lead the way towards responsible digitalisation. What guides us is a core belief that technology makes a real and positive difference to societies, businesses, the environment, and our common future – if done right. We design, implement, and maintain business-critical IT solutions. Every day, we take on challenges, share knowledge, and use technology to create solutions that safeguard data, strengthen society, and improve lives. From bold initiatives to everyday teamwork, our work is meaningful, innovative, and always guided by the responsibility we carry in shaping the digital future.
 
-Netcompany is a pure-play IT services company delivering business-critical strategic IT projects that accelerate customers’ digital transformation through digital platforms, core systems and infrastructure services.
-
-We provide end-to-end IT services from development through to maintenance and operations to a diversified customer base, including large and mid-sized European companies from various industries in the private and public sectors.
-We are committed
-
-### We are committed
-We are committed to making our customers successful. A continual line of high quality IT-deliverances at the right time and to the agreed budget speaks for itself. Furthermore, we are committed to developing our employees’ talents and realising their potential with the market’s best and most popular career model. That combination has made us the market’s most successful IT-company.
-Business focus
-
-### Business focus
-At Netcompany, we combine professional craftwork with speed and flexibility. Our broad business skills, methods and insight into technology guarantees solutions that are technically solid, organisationally anchored and that supply the desired economic results.
-Close to the customer
-
-### Close to the customer
-We believe in a close partnership with our customers, so the quality and foundation is ensured to be the best possible. We usually say that ‘we work with’ our customers, in contrast to ‘work for’ our customers – that is why we often work on-site at the customers` location. Our professional, flexible and responsible employees work at Netcompany because they deliver top-results every time, and are pleasant to work with.
-Culture and values
-
-### Culture and values
-At Netcompany, we understand that our employees are the key to maintaining our position as the most skilled and fastest growing IT consulting firm. That is why we have created a business model where we constantly focus on developing our employees to becoming the best in the industry. That means their career is just as important to us as it is to them.
+Netcompany serves a wide range of clients in their digital transformation journeys in the public and private sectors across Europe. Founded in 2000 and headquartered in Copenhagen, Denmark, we are today an international company with more than 9,500 employees. In the Netherlands, our team of over 200 colleagues works on innovative projects, primarily for the central government, for organisations such as the Medicines Evaluation Board (CBG), the Immigration and Naturalisation Service (IND), and the Dutch Probation Service (3RO). By leveraging technology and digitalisation responsibly, it is our purpose to contribute to a modern and mature Europe that prioritises democracy, justice, transparency, and social security. If we do it right, we will hand over a society to our coming generations that both we and they can be proud of.
